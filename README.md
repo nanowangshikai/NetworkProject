@@ -2,6 +2,7 @@
 CITS3002 Transportation communication
 
 //Terminal
+
 chmod +x portsinuse.sh
 
 ./portsinuse.sh
