@@ -1,0 +1,7 @@
+Rural_South,-31.9442,115.8771
+05:15,Line1,PlatformB,06:10,South_Busport
+06:15,Line1,PlatformB,07:18,South_Busport
+18:50,Line1,PlatformB,19:25,South_Busport
+21:45,Line1,PlatformB,22:00,South_Busport
+10:35,Line1,PlatformB,10:59,South_Busport
+23:30,Line1,PlatformB,23:50,South_Busport

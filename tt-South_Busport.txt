@@ -1,0 +1,12 @@
+South_Busport,-31.9442,115.8771
+05:15,Line2,PlatformB,06:10,West_Station
+05:22,180,StopA,05:51,East_Station
+06:15,Line2,PlatformB,07:18,West_Station
+06:16,13,StopC,06:51,East_Station
+18:50,Line2,PlatformB,19:25,West_Station
+18:45,180,StopA,19:15,East_Station
+21:45,Line2,PlatformB,22:00,West_Station
+22:20,180,StopA,22:30,East_Station
+23:55,Line2,PlatformB,23:59,West_Station
+23:50,180,StopA,23:58,East_Station
+23:50,180,StopB,23:57,Rural_South
